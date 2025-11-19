@@ -1,3 +1,3 @@
 # Password-Manager
-Password Manager app with CRUD operation
+Password Manager app with CRUD operation,
 Author - Rajesh Pandey
