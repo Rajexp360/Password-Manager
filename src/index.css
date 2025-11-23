@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+    .mycontainer{
+        @apply container flex w-300 mx-auto;
+    }
+}
